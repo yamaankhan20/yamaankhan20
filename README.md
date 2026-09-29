@@ -75,7 +75,6 @@ me := Engineer{
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
 
-<br/><br/>
 
 ### Observability & Tooling
 
