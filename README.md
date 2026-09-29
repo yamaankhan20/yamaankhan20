@@ -1,118 +1,106 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/84683423?v=4" width="120" alt="Yamaan Khan" />
+<img src="https://i.giphy.com/media/3o7qiZd2ORhXiqoEDe/giphy.gif" width="100%" alt="Yamaan Khan" />
+
+<br/>
 
 # Hey, I'm Yamaan Khan 👋
 
-### Software Engineer @ DevStack Labs
-
-**Go • Distributed Systems • Backend Infrastructure**
-
-<br/>
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-<br/><br/>
-
-**Open Source Contributor in Go & TypeScript Ecosystems**
+<a href="https://github.com/yamaankhan20">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00ADD8&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+DevStack+Labs;Go+%E2%80%A2+Distributed+Systems+%E2%80%A2+Backend;Concurrency+%7C+Event-Driven+%7C+Performance;Go+first.+Systems+focused.+Open+source+driven." alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamaan_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamaan-khan)
-[![GitHub](https://img.shields.io/badge/GitHub-yamaankhan20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yamaankhan20)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khanyamaan1@gmail.com)
+![Followers](https://img.shields.io/github/followers/yamaankhan20?style=for-the-badge&logo=github&color=181717)
+![Location](https://img.shields.io/badge/Karachi-Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamaan-khan)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanyamaan1@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ About
 
 ```go
+package main
+
 type Engineer struct {
-    Focus     []string
-    Languages []string
-    Interests []string
+	Name      string
+	Role      string
+	Mindset   []string
+	Currently []string
 }
 
-me := Engineer{
-    Focus: []string{
-        "Distributed Systems",
-        "Backend Infrastructure",
-        "Performance Engineering",
-        "Event-Driven Architecture",
-    },
-
-    Languages: []string{
-        "Go",
-        "TypeScript",
-        "Python",
-    },
-
-    Interests: []string{
-        "Open Source",
-        "Concurrency",
-        "Linux Internals",
-        "Cloud Infrastructure",
-    },
+func main() {
+	me := Engineer{
+		Name: "Yamaan Khan",
+		Role: "Software Engineer @ DevStack Labs",
+		Mindset: []string{
+			"Measure first, optimize second",
+			"Simple beats clever",
+			"Ship it, then make it observable",
+		},
+		Currently: []string{
+			"Building Go services at scale",
+			"Going deeper into Linux internals",
+			"Exploring Scala & Apache Spark",
+		},
+	}
+	_ = me
 }
 ```
-
----
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**<br/>
 
-<img src="https://skillicons.dev/icons?i=go,ts,python" height="48" />
+<img src="https://skillicons.dev/icons?i=go,ts,py,js,scala&theme=dark" alt="Languages" />
+
+
+**Backend & Data**<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,redis,mongodb,kafka&theme=dark" alt="Backend and Data" />
+
+**Cloud & DevOps**<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,git&theme=dark" alt="Cloud and DevOps" />
+
+
+**Observability**<br/>
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability" />
+
+
+**Web**<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Web" />
 
 <br/><br/>
 
-### Backend & Distributed Systems
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis" height="48" />
-
-<br/><br/>
-
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
-![API Gateways](https://img.shields.io/badge/API_Gateways-1F2937?style=flat-square)
-
-<br/><br/>
-
-### Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" height="48" />
-
-<br/><br/>
-
-### Observability & Tooling
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode" height="48" />
-
-<br/><br/>
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=nextjs,react" height="48" />
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 Engineering Focus
+## 📈 GitHub Stats
 
 <div align="center">
 
-`Distributed Systems` • `Backend Infrastructure` • `Concurrency` • `Event-Driven Systems`
+<img src="https://streak-stats.demolab.com/?user=yamaankhan20&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
-`Performance Engineering` • `Streaming` • `Cloud Infrastructure` • `Open Source`
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/00ADD8/yamaankhan20" width="90%" alt="Contribution Chart" />
 
 </div>
 
@@ -120,25 +108,22 @@ me := Engineer{
 
 ## 🌍 Open Source
 
-Currently contributing mainly across the **Go ecosystem**, with growing involvement in **TypeScript / JavaScript open source**.
+Contributing mainly across the **Go ecosystem**, with growing involvement in **TypeScript / JavaScript** open source.
 
 <div align="center">
 
-![Open Source](https://img.shields.io/badge/Open_Source-Engineering-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Go Ecosystem](https://img.shields.io/badge/Go-Ecosystem-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript Ecosystem](https://img.shields.io/badge/TypeScript-Ecosystem-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### `Go first. Systems focused. Open source driven.`
+
+<sub>Open to interesting conversations about backend, distributed systems, and Go.</sub>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamaan-khan)
-[![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamaankhan20)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanyamaan1@gmail.com)
 
 </div>
