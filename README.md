@@ -17,12 +17,6 @@
 
 <img src="https://skillicons.dev/icons?i=go,ts,python" />
 
-<br/>
-
-**Primary:** Go  
-**Secondary:** TypeScript  
-**Third:** Python
-
 </div>
 
 ---
