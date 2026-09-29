@@ -59,17 +59,12 @@ me := Engineer{
 
 <img src="https://skillicons.dev/icons?i=go,ts,python" />
 
-<br/><br/>
-
+<br/>
 ### Backend & Distributed Systems
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,kafka" />
 
 <br/>
-
-`REST APIs` • `gRPC` • `Gin` • `Chi` • `API Gateways` • `Amazon SQS`
-
-<br/><br/>
 
 ### Cloud & Infrastructure
 
