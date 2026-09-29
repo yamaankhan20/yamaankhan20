@@ -60,6 +60,7 @@ me := Engineer{
 <img src="https://skillicons.dev/icons?i=go,ts,python" />
 
 <br/>
+
 ### Backend & Distributed Systems
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,kafka" />
@@ -70,12 +71,13 @@ me := Engineer{
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
 
+<br/>
 
 ### Observability & Tooling
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode" />
 
-<br/><br/>
+<br/>
 
 ### Web
 
