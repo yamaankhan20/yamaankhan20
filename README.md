@@ -7,7 +7,7 @@
 # Hey, I'm Yamaan Khan 👋
 
 <a href="https://github.com/yamaankhan20">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00ADD8&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+DevStack+Labs;Go+%E2%80%A2+Distributed+Systems+%E2%80%A2+Backend;Concurrency+%7C+Event-Driven+%7C+Performance;Go+first.+Systems+focused.+Open+source+driven." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00ADD8&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+DevStackLab;Go+%E2%80%A2+Distributed+Systems+%E2%80%A2+Backend;Concurrency+%7C+Event-Driven+%7C+Performance;Go+first.+Systems+focused.+Open+source+driven." alt="Typing SVG" />
 </a>
 
 <br/>
